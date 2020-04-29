@@ -1,0 +1,19 @@
+{
+  "name": "axios-mock-jest",
+  "version": "0.0.1",
+  "description": "Light weight Axios mock library for unit testing with Jest, built with vanilla javascript and no dependencies.",
+  "main": "axios.js",
+  "repository": "https://github.com/AnandShiva/axios-mock-jest.git",
+  "author": "Anand",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "webpack": "^4.43.0"
+  }
+}
